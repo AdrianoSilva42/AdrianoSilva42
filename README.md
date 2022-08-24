@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=34F700&background=FF140F00&width=435&lines=Ola+!!+Me+chamo+Adriano+Silva+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-- 📚💻Atualmente estou estudando DEsenvolvimento Web Full-Stack para me tornar um De. Jr.
+- 📚💻Atualmente estou estudando Desenvolvimento Web Full-Stack para me tornar um De. Jr.
 - 🔭Adoro ler e ver tudo oque tem a ver com espaço e fisica.
 - 🥰Sou apaixonado por cultura pop e sou um leitor assiduo de quadrinhos.
 - 🎸Sou otimo tocando guitarra e bateria imaginarias e nas horas vagas escrevo roteiros de quadrinhos.
